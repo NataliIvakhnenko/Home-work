@@ -1,0 +1,7 @@
+body {
+background-color:#a7cef3;
+}
+.head{
+    color: rgb(5, 1, 1);
+    flex-direction: row;
+}
