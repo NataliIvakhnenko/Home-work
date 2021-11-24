@@ -1,7 +1,65 @@
 body {
 background-color:#a7cef3;
 }
-.head{
-    color: rgb(5, 1, 1);
-    flex-direction: row;
+.block{
+    float: left;
+    position: static;
 }
+.clr {
+    clear: both;
+}
+.head{
+    display: inline-block;
+    position: static;
+    
+}
+.tittle {
+    text-align: center;
+    border: 2px;
+    background-color: rgb(33, 33, 34);
+    height: 200px;
+    width: 1600px;
+    left: 0px;
+    top: 80px;
+    border-radius: 0px;
+
+}
+
+
+
+#content {
+    float: left;
+   width: 25%;
+
+}
+.clr {
+    clear: both;
+}
+.work {text-align: center;
+
+}
+.web {
+    height: 31px;
+width: 145px;
+left: 215px;
+top: 24px;
+border-radius: nullpx;
+
+}
+.studio {
+    height: 16px;
+width: 49px;
+left: 453px;
+top: 32px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2196f3;
+
+}
+
