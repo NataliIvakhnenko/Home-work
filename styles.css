@@ -9,23 +9,15 @@ background-color:#a7cef3;
     clear: both;
 }
 .head{
-    display: inline-block;
-    position: static;
+    width: 1600%;
+    /*margin: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    position: relative;*/
+    height: 60px;
+    border: 1px;
     
 }
-.tittle {
-    text-align: center;
-    border: 2px;
-    background-color: rgb(33, 33, 34);
-    height: 200px;
-    width: 1600px;
-    left: 0px;
-    top: 80px;
-    border-radius: 0px;
-
-}
-
-
 
 #content {
     float: left;
@@ -40,10 +32,11 @@ background-color:#a7cef3;
 }
 .web {
     height: 31px;
-width: 145px;
-left: 215px;
-top: 24px;
-border-radius: nullpx;
+    width: 145px;
+    left: 215px;
+    top: 24px;
+    border-radius: nullpx;
+    
 
 }
 .studio {
@@ -63,3 +56,67 @@ color: #2196f3;
 
 }
 
+.head-web {
+    width: 145px;
+    height: 35px;
+    font-size: 26px;
+}
+
+
+
+.head-studio {
+    color: #2196F3;
+    margin-left: 253px;
+    margin-top: 32px;
+    margin-right: 50px;
+    margin-bottom: 32px;  
+    
+
+}
+.head-portfolio {
+    color: #212121;
+    margin-left: 50px;    
+    margin-right: 50px; 
+    
+
+}
+.head-contact {
+    color: #212121;
+    margin-left: 50px;    
+    margin-right: 150px;   
+
+}
+
+.head-mailto {
+    
+    margin-left: 150px;
+    margin-right: 50px;    
+
+}
+.head-tell {
+    margin-left: 50px;
+    margin-right: 50px; 
+
+}
+
+.tittle {
+    text-align: center;
+    border: 2px;
+    background-color: rgb(33, 33, 34);
+    height: 200px;
+    width: 1600px;
+    left: 0px;
+    top: 30px;
+    border-radius: 0px;
+    
+
+}
+
+.tittle_header {
+    color: white;
+    margin-left: 452px;
+    margin-top: 50px;
+    margin-right: 452px;
+    margin-bottom: 580;
+    display: inline;
+}
