@@ -1,4 +1,5 @@
 body {
+
 background-color:#a7cef3;
 }
 .block{
@@ -89,12 +90,12 @@ color: #2196f3;
 
 .head-mailto {
     
-    margin-left: 150px;
+    margin-left: 100px;
     margin-right: 50px;    
 
 }
 .head-tell {
-    margin-left: 50px;
+    margin-left: 20px;
     margin-right: 50px; 
 
 }
@@ -104,7 +105,7 @@ color: #2196f3;
     border: 2px;
     background-color: rgb(33, 33, 34);
     height: 200px;
-    width: 1600px;
+    width:1400px;
     left: 0px;
     top: 30px;
     border-radius: 0px;
@@ -120,3 +121,55 @@ color: #2196f3;
     margin-bottom: 580;
     display: inline;
 }
+
+.foto1 {
+border: darkolivegreen;
+padding: 15px;
+background: darkseagreen;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-right: 10px;
+}
+.foto2 {
+    border: darkolivegreen;
+padding: 15px;
+background: darkseagreen;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-right: 10px;
+}
+.foto3 {
+    border: darkolivegreen;
+padding: 15px;
+background: darkseagreen;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-right: 10px;
+}
+.foto4 {
+    border: darkolivegreen;
+padding: 15px;
+background: darkseagreen;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-right: 10px;
+}
+.work-comand {
+background: rgb(19, 88, 179);
+}
+.footer {
+    border: 2px;
+    background-color: rgb(33, 33, 34);
+    height: 70px;
+    width:1400px;
+    left: 0px;
+    top: 30px;
+    border-radius: 0px;
+
+}
+
+
+
+    
+
+
